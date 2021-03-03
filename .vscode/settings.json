@@ -8,5 +8,6 @@
     ],
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
-    }
+    },
+    "python.pythonPath": "api/.venv/bin/python3"
 }
